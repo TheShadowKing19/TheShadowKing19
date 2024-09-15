@@ -4,5 +4,5 @@
 
 ### Technologies I use:
 <p align="left">
-<a href="http://twitter.com/MishManners" target="blank"><img align="center" src="https://github.com/TheShadowKing19/TheShadowKing19/blob/main/Icons/Python.png" title = "Twitter" alt="" height="30" /></a>
+<a href="http://twitter.com/MishManners" target="blank"><img align="center" src="https://github.com/TheShadowKing19/TheShadowKing19/blob/main/Icons/python-icon.png" title = "Twitter" alt="" height="30" /></a>
 </p>
