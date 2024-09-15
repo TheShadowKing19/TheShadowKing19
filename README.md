@@ -8,4 +8,5 @@
  <a href="" target="blank"><img align="center" src="https://github.com/TheShadowKing19/TheShadowKing19/blob/main/Icons/pandas-logo.png" alt="" height="45" /></a>
  <a href="" target="blank"><img align="center" src="https://github.com/TheShadowKing19/TheShadowKing19/blob/main/Icons/numpy-logo.png" alt="" height="45" /></a>
  <a href="" target="blank"><img align="center" src="https://github.com/TheShadowKing19/TheShadowKing19/blob/main/Icons/django-logo.svg" alt="" height="45" /></a>
+ <a href="" target="blank"><img align="center" src="https://github.com/TheShadowKing19/TheShadowKing19/blob/main/Icons/mysql-logo.png" alt="" height="45" /></a>
 </div>
