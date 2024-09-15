@@ -4,6 +4,6 @@
 
 ## Technologies I use:
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://github.com/TheShadowKing19/TheShadowKing19/blob/main/Icons/python-logo.png" alt="" height="30" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/TheShadowKing19/TheShadowKing19/blob/main/Icons/pandas-logo.png" alt="" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/TheShadowKing19/TheShadowKing19/blob/main/Icons/python-logo.png" alt="" height="50" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/TheShadowKing19/TheShadowKing19/blob/main/Icons/pandas-logo.png" alt="" height="50" /></a>
 </p>
